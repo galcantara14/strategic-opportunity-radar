@@ -1,0 +1,102 @@
+{
+  "semana": 16,
+  "data_busca": "22/04/2026",
+  "premiacoes": [
+    {
+      "nome": "Chamada Instituto Cultural Vale 2026",
+      "organizador": "Instituto Cultural Vale (Vale S.A.)",
+      "tipo": "patrocinio",
+      "prazo": "15/05/2026",
+      "urgencia": "alta",
+      "link": "https://institutoculturalvale.org",
+      "areas_impactadas": ["programas culturais", "audiovisual","patrimônio","iniciativas sociais"],
+      "area": "cultura",
+      "promotor": "instituto",
+      "por_que_participar": "R$ 30 milhões via Lei Rouanet em 7 áreas — artes cênicas, audiovisual, patrimônio, música e mais. Maior investidor privado em cultura do Brasil, com 353 projetos patrocinados desde 2020. Inscrições abertas desde 16/04."
+    },
+    {
+      "nome": "Somos Favela Lab Audiovisual — CUFA + Estúdios Globo",
+      "organizador": "CUFA (Central Única das Favelas) + Estúdios Globo",
+      "tipo": "programa",
+      "prazo": "Abril de 2026 — verificar encerramento no site",
+      "urgencia": "alta",
+      "link": "https://observatorio3setor.org.br/cufa-e-estudios-globo-abrem-inscricoes-para-laboratorio-audiovisual-voltado-a-moradores-de-favelas/",
+      "areas_impactadas": ["audiovisual", "iniciativas sociais"],
+      "area": "audiovisual",
+      "promotor": "empresa",
+      "por_que_participar": "Laboratório de desenvolvimento de filmes de ficção e documentário para moradores de periferias — mentoria, oficinas e prêmio de R$ 20 mil. Alinhado ao audiovisual e aos programas de periferia da organização."
+    },
+    {
+      "nome": "Edital SC Cultura Viva — Pontos e Pontões de Cultura",
+      "organizador": "Fundação Catarinense de Cultura / PNAB",
+      "tipo": "edital",
+      "prazo": "18/05/2026",
+      "urgencia": "alta",
+      "link": "https://culturavivasc.fepese.org.br",
+      "areas_impactadas": ["programas culturais", "audiovisual","patrimônio","iniciativas sociais"],
+      "area": "cultura",
+      "promotor": "governo",
+      "por_que_participar": "R$ 5,1 milhões via PNAB para Pontos e Pontões de Cultura certificados pelo MinC — oportunidade para fortalecer a rede de parceiros culturais da organização com acesso a recursos federais."
+    },
+    {
+      "nome": "Edital Ambev Brasilidades 2026 — Copa do Mundo",
+      "organizador": "Ambev",
+      "tipo": "patrocinio",
+      "prazo": "Inscrições contínuas — verificar prazo por estado",
+      "urgencia": "media",
+      "link": "https://culturapresente.com.br/projetos-culturais-incentivados-editais-abertos/",
+      "areas_impactadas": ["programas culturais", "audiovisual","patrimônio","iniciativas sociais"],
+      "area": "cultura",
+      "promotor": "banco",
+      "por_que_participar": "Edição 2026 prioriza projetos que dialoguem com a Copa do Mundo — música, dança, audiovisual, patrimônio e manifestações populares aprovados nas leis estaduais de 27 estados, incluindo SP."
+    },
+    {
+      "nome": "Instituto Impactarte — Apoio Contínuo a Projetos Sociais 2026",
+      "organizador": "Instituto Impactarte",
+      "tipo": "edital",
+      "prazo": "Fluxo contínuo ao longo de 2026",
+      "urgencia": "media",
+      "link": "https://conjunta.org/recurso-financeiro/edital-continuo-de-apoio-a-projetos-sociais-ciclo-2026-instituto-impactarte/",
+      "areas_impactadas": ["programas culturais", "audiovisual","patrimônio","iniciativas sociais"],
+      "area": "ong",
+      "promotor": "instituto",
+      "por_que_participar": "Financiamento direto e flexível para OSCs e iniciativas socioculturais, com suporte não financeiro e acompanhamento institucional — ideal para fortalecer a gestão e captação da organização."
+    },
+    {
+      "nome": "Edital Circuito Catarinense de Cultura — PNAB 2026",
+      "organizador": "Fundação Catarinense de Cultura / Governo Federal (PNAB)",
+      "tipo": "edital",
+      "prazo": "27/04/2026",
+      "urgencia": "alta",
+      "link": "https://circuitocatarinensedecultura2026.fepese.org.br",
+      "areas_impactadas": ["programas culturais", "audiovisual","patrimônio","iniciativas sociais"],
+      "area": "cultura",
+      "promotor": "governo",
+      "por_que_participar": "R$ 27,5 milhões para 507 projetos em festivais, mostras, formações e ações culturais — inclui circo, audiovisual, culturas periféricas e patrimônio. Referência de edital PNAB para acompanhar modelos replicáveis."
+    },
+    {
+      "nome": "LIC RS — Patrimônio e Espaços Públicos de Cultura 2026",
+      "organizador": "Secretaria de Cultura do Rio Grande do Sul (SEDAC)",
+      "tipo": "chamada_publica",
+      "prazo": "Abril/maio 2026 — verificar abertura",
+      "urgencia": "baixa",
+      "link": "https://cultura.rs.gov.br",
+      "areas_impactadas": ["programas culturais", "audiovisual","patrimônio","iniciativas sociais"],
+      "area": "patrimonio",
+      "promotor": "governo",
+      "por_que_participar": "Segundo edital da LIC gaúcha em 2026, voltado ao patrimônio e espaços públicos — modelo a monitorar para iniciativas de patrimônio cultural e teatros da organização."
+    },
+    {
+      "nome": "Zayed Sustainability Prize 2027 — Ciclo de inscrições aberto",
+      "organizador": "Erth Zayed Philanthropies (Emirados Árabes)",
+      "tipo": "premiacao",
+      "prazo": "15/07/2026",
+      "urgencia": "baixa",
+      "link": "https://capta.org.br/fontes-de-financiamento/oportunidades/",
+      "areas_impactadas": ["programas culturais", "audiovisual","patrimônio","iniciativas sociais"],
+      "area": "esg",
+      "promotor": "internacional",
+      "por_que_participar": "Prêmio global com fundo de US$ 7,2 milhões — reconhece ONGs com soluções sustentáveis em saúde, energia, água, alimentação e ação climática. Inscrições em português até julho."
+    }
+  ]
+}
