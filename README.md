@@ -31,7 +31,7 @@ AI Search → JSON Output → Python Processing → Automated Email Delivery
 ##  Demonstração Visual
 
 <p align="center">
-  <img src="Exemplo.jpg" width="300" alt="Visão final do redar enviado"/>
+  <img src="Exemplo.png" width="300" alt="Visão final do redar enviado"/>
 </p>
 
 
